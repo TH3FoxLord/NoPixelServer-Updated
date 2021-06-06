@@ -13,12 +13,20 @@ SQL : https://mega.nz/file/iZtiUZ4b#ru1JOCeFhitJsMAvfSMl1PCTHLZEsGG_l2qixP3PjzQ
 
 Enjoy Swxy#0001 :)
 
-Installation
+Installation :
+
 Create a FiveM server (guide)
+
 Stop the server
+
 Open the new folder that was created under the txData folder
+
 Delete everything in that folder
+
 Clone this repository to that folder
-Run nopixel.sql in your database
+
+Run <nopixel.sql> in your database
+
 Run set-passwords.bat (requires wlr - I used Ubuntu)
+
 Start the server
